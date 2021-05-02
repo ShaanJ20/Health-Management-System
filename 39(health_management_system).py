@@ -123,4 +123,4 @@ elif lock_or_retrieve==2:
             f=open("Warren.Diet.txt")
             print(f.read())
             f.close()
-        f.close()       
+              

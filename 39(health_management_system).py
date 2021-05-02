@@ -109,7 +109,7 @@ elif lock_or_retrieve==2:
             print(f.read())
             f.close()
 
-        # WARREN LOCK
+        # WARREN Retrieve
 
     if client==3:
         print("Hi Warren")
